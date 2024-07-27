@@ -1,4 +1,4 @@
-# Hi there, I'm @xrajan 👋
+# Hi there, I'm Rajan 👋
 
 Welcome to my GitHub profile! I'm passionate about web development and always eager to learn and grow. Here's a little more about me:
 
